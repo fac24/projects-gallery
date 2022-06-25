@@ -58,5 +58,71 @@ const data = {
       projects: [],
     },
   ],
-  people: [],
+  people: [
+    {
+      name: "Peter",
+      handle: "PJSalter",
+      img: "",
+    },
+    {
+      name: "Sonia",
+      handle: "sonianb",
+      img: "",
+    },
+    {
+      name: "Alex",
+      handle: "lascellesabercrombie",
+      img: "",
+    },
+    {
+      name: "Maria",
+      handle: "mariaalouisaa",
+      img: "",
+    },
+    {
+      name: "Petra",
+      handle: "alternadiva",
+      img: "",
+    },
+    {
+      name: "Joe",
+      handle: "joe-dev-public",
+      img: "",
+    },
+    {
+      name: "George",
+      handle: "Glombort",
+      img: "",
+    },
+    {
+      name: "Minju",
+      handle: "minju25kim",
+      img: "",
+    },
+    {
+      name: "Hussain",
+      handle: "HusJAW",
+      img: "",
+    },
+    {
+      name: "Hallie",
+      handle: "vasystus",
+      img: "",
+    },
+    {
+      name: "Asmahan",
+      handle: "AsmahanM",
+      img: "",
+    },
+    {
+      name: "Bereket",
+      handle: "Bereketmebrahtu",
+      img: "",
+    },
+    {
+      name: "Ahoa",
+      handle: "ahoat",
+      img: "",
+    },
+  ],
 };
