@@ -5,7 +5,50 @@ const data = {
     {
       week: -2,
       theme: "Markup - first project of part time course",
-      projects: [],
+      projects: [
+        {
+          title: "Ved Agency",
+          img: "",
+          team: ["Peter", "Sonia"],
+          github: "https://github.com/sonianb/agency-website",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Agency Website",
+          img: "",
+          team: ["Bereket", "Asmahan"],
+          github: "https://github.com/AsmahanM/User-Stories",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Tech Hive",
+          img: "",
+          team: ["Maria", "Hallie"],
+          github: "https://github.com/vasystus/TechHive",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Creators Club",
+          img: "",
+          team: ["Joe", "Minju", "Hussain"],
+          github: "https://github.com/joe-dev-public/fac-agency-website",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Flag to Flag",
+          img: "",
+          team: ["Alex", "Petra"],
+          github: "https://github.com/lascellesabercrombie/agency-website",
+          description: "Front End Agency Website",
+        },
+        {
+          title: "Markup-Project",
+          img: "assets/Little-Garden.png",
+          team: ["Ahoa", "George"],
+          github: "https://github.com/Glombort/Markup-Project",
+          description: "Front End Agency Website",
+        },
+      ],
     },
     {
       week: -1,
