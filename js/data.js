@@ -43,7 +43,7 @@ const data = {
         },
         {
           title: "Markup-Project",
-          img: "",
+          img: "assets/AhoaGeorgeMarkdown.png",
           team: ["Ahoa", "George"],
           github: "https://github.com/Glombort/Markup-Project",
           description: "Front End Agency Website",
