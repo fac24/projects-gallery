@@ -53,7 +53,50 @@ const data = {
     {
       week: -1,
       theme: "HTTP - second project of part time course",
-      projects: [],
+      projects: [
+        {
+          title: "Sheldonia",
+          img: "",
+          team: ["Peter", "Bereket"],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["", "", ""],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "App that fetches data from APIs",
+        },
+      ],
     },
     {
       week: 0,
