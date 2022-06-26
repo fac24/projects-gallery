@@ -53,7 +53,50 @@ const data = {
     {
       week: -1,
       theme: "HTTP - second project of part time course",
-      projects: [],
+      projects: [
+        {
+          title: "Sheldonia",
+          img: "assets/sheldonia.png",
+          team: ["Peter", "Bereket"],
+          github: "https://github.com/PJSalter/Http-App-Project",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "HUNGRI-LA",
+          img: "assets/hungri-la.png",
+          team: ["Hallie", "Joe"],
+          github: "https://github.com/vasystus/hungri-la",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "Top News",
+          img: "assets/topNews.png",
+          team: ["George", "Asmahan"],
+          github: "https://github.com/Glombort/http-project",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "News:Flix",
+          img: "assets/newsFlix.png",
+          team: ["Ahoa", "Maria"],
+          github: "https://github.com/ahoat/HTTP-Project",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "Wordle Words",
+          img: "assets/wordleWords.png",
+          team: ["Minju", "Hussain"],
+          github: "https://github.com/minju25kim/http-project",
+          description: "App that fetches data from APIs",
+        },
+        {
+          title: "HOME TRAVELLER",
+          img: "assets/homeTraveller.png",
+          team: ["Petra", "Alex", "Sonia"],
+          github: "https://github.com/alternadiva/Home-Traveller-Project",
+          description: "App that fetches data from APIs",
+        },
+      ],
     },
     {
       week: 0,
