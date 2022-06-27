@@ -101,7 +101,50 @@ const data = {
     {
       week: 0,
       theme: "Testing - third project of part time course",
-      projects: [],
+      projects: [
+        {
+          title: "Binge Pad",
+          img: "assets/BingePad.png",
+          team: ["Peter", "Asmahan", "Maria"],
+          github: "https://github.com/AsmahanM/FAC-To-Do-Project",
+          description: "To Do List App",
+        },
+        {
+          title: "Bucket List",
+          img: "assets/Bucket-List.png",
+          team: ["Bereket", "Hallie"],
+          github: "https://github.com/Bereketmebrahtu/To-do-list-tracker",
+          description: "To Do List App",
+        },
+        {
+          title: "NotePerfect",
+          img: "assets/NotePerfect.png",
+          team: ["Alex", "George"],
+          github: "https://github.com/lascellesabercrombie/testing-project",
+          description: "To Do List App",
+        },
+        {
+          title: "To Do List",
+          img: "assets/ToDoList.png",
+          team: ["Ahoa", "Minju"],
+          github: "https://github.com/ahoat/To-do-list",
+          description: "To Do List App",
+        },
+        {
+          title: "To-Do or Not To-Do?",
+          img: "assets/To-Do-Or-Not-To-Do.png",
+          team: ["Sonia", "Joe"],
+          github: "https://github.com/sonianb/to-do-list",
+          description: "To Do List App",
+        },
+        {
+          title: "Bucket List",
+          img: "assets/BucketList.png",
+          team: ["Hussain", "Petra"],
+          github: "https://github.com/alternadiva/Bucket-List-Project",
+          description: "To Do List App",
+        },
+      ],
     },
     {
       week: 1,
