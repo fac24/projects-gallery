@@ -101,7 +101,15 @@ const data = {
     {
       week: 0,
       theme: "Testing - third project of part time course",
-      projects: [],
+      projects: [
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "To Do List App",
+        },
+      ],
     },
     {
       week: 1,
