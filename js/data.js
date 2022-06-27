@@ -105,8 +105,8 @@ const data = {
         {
           title: "",
           img: "",
-          team: ["", ""],
-          github: "",
+          team: ["Peter", "Asmahan", "Maria"],
+          github: "https://github.com/AsmahanM/FAC-To-Do-Project",
           description: "To Do List App",
         },
         {
