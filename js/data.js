@@ -178,14 +178,14 @@ const data = {
       theme: "Database",
       projects: [
         {
-          title: "",
+          title: "iScream",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "",
         },
         {
-          title: "",
+          title: "Purr-Thday",
           img: "",
           team: ["", "", "", ""],
           github: "",
