@@ -166,7 +166,7 @@ const data = {
         },
         {
           title: "bløgge",
-          img: "",
+          img: "assets/",
           team: ["Alex", "Hallie", "Sonia", "Hussain"],
           github: "https://github.com/fac24/week1-alex-hallie-hussain-sonia",
           description: "A microblogging site",
