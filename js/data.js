@@ -176,7 +176,29 @@ const data = {
     {
       week: 2,
       theme: "Database",
-      projects: [],
+      projects: [
+        {
+          title: "iScream",
+          img: "assets/iscream.png",
+          team: ["Peter", "Maria", "Alex", "Sonia"],
+          github: "https://github.com/fac24/week2-alex-maria-peter-sonia",
+          description: "App that stores data in PostgreSQL database",
+        },
+        {
+          title: "Purr-Thday",
+          img: "assets/purr-thday.png",
+          team: ["Minju", "Hussain", "Asmahan", "George"],
+          github: "https://github.com/fac24/week2-Minju-Hussain-Asmahan-George",
+          description: "App that stores data in PostgreSQL database",
+        },
+        {
+          title: "Written Tomatoes: book ratings & reviews",
+          img: "assets/WrittenTomatoes.png",
+          team: ["Bereket", "Hallie", "Joe", "Petra"],
+          github: "https://github.com/fac24/week2-Bereket-Hallie-Joe-Petra",
+          description: "App that stores data in PostgreSQL database",
+        },
+      ],
     },
     {
       week: 3,
