@@ -50,7 +50,8 @@ h4 {
 }
 
 .project-article {
-  background-color: white;
+  background-color: #d2afff;
+  box-shadow: #af03ca 0px 3px 8px;
   border-radius: 1em;
   padding: 1em;
   display: flex;
