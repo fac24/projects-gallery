@@ -176,7 +176,15 @@ const data = {
     {
       week: 2,
       theme: "Database",
-      projects: [],
+      projects: [
+        {
+          title: "",
+          img: "",
+          team: ["", "", "", ""],
+          github: "",
+          description: "",
+        },
+      ],
     },
     {
       week: 3,
