@@ -149,7 +149,15 @@ const data = {
     {
       week: 1,
       theme: "Server",
-      projects: [],
+      projects: [
+        {
+          title: "",
+          img: "",
+          team: ["", ""],
+          github: "",
+          description: "",
+        },
+      ],
     },
     {
       week: 2,
