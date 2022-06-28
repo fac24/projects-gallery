@@ -187,7 +187,7 @@ const data = {
         {
           title: "Purr-Thday",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Minju", "Hussain", "Asmahan", "George"],
           github: "",
           description: "",
         },
