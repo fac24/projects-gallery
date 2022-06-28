@@ -171,27 +171,6 @@ const data = {
           github: "",
           description: "A microblogging site",
         },
-        {
-          title: "",
-          img: "",
-          team: ["", ""],
-          github: "",
-          description: "A microblogging site",
-        },
-        {
-          title: "",
-          img: "",
-          team: ["", ""],
-          github: "",
-          description: "A microblogging site",
-        },
-        {
-          title: "",
-          img: "",
-          team: ["", ""],
-          github: "",
-          description: "A microblogging site",
-        },
       ],
     },
     {
