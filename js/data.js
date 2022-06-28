@@ -152,21 +152,21 @@ const data = {
       projects: [
         {
           title: "KAPOW!",
-          img: "",
+          img: "assets/kapow.png",
           team: ["Peter", "Minju", "Petra", "Joe"],
           github: "https://github.com/fac24/week1-Joe-Minju-Petra-Peter",
           description: "A microblogging site",
         },
         {
           title: "CrocSpace",
-          img: "",
+          img: "assets/crocspace.png",
           team: ["Asmahan", "George", "Bereket", "Maria"],
           github: "https://github.com/fac24/week1-asmahan-george-bereket-maria",
           description: "A microblogging site",
         },
         {
           title: "bløgge",
-          img: "assets/",
+          img: "assets/blogge.png",
           team: ["Alex", "Hallie", "Sonia", "Hussain"],
           github: "https://github.com/fac24/week1-alex-hallie-hussain-sonia",
           description: "A microblogging site",
