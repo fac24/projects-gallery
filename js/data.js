@@ -188,7 +188,7 @@ const data = {
           title: "Purr-Thday",
           img: "",
           team: ["Minju", "Hussain", "Asmahan", "George"],
-          github: "",
+          github: "https://github.com/fac24/week2-Minju-Hussain-Asmahan-George",
           description: "App that stores data in PostgreSQL database",
         },
         {
