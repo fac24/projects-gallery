@@ -180,7 +180,7 @@ const data = {
         {
           title: "iScream",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Peter", "Maria", "Alex", "Sonia"],
           github: "",
           description: "",
         },
@@ -194,7 +194,7 @@ const data = {
         {
           title: "Written Tomatoes: book ratings & reviews",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Bereket", "Hallie", "Joe", "Petra"],
           github: "",
           description: "",
         },
