@@ -151,21 +151,21 @@ const data = {
       theme: "Server",
       projects: [
         {
-          title: "",
+          title: "KAPOW!",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "A microblogging site",
         },
         {
-          title: "",
+          title: "CrocSpace",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "A microblogging site",
         },
         {
-          title: "",
+          title: "bløgge",
           img: "",
           team: ["", "", "", ""],
           github: "",
