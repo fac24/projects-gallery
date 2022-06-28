@@ -181,7 +181,7 @@ const data = {
           title: "iScream",
           img: "",
           team: ["Peter", "Maria", "Alex", "Sonia"],
-          github: "",
+          github: "https://github.com/fac24/week2-alex-maria-peter-sonia",
           description: "App that stores data in PostgreSQL database",
         },
         {
@@ -195,7 +195,7 @@ const data = {
           title: "Written Tomatoes: book ratings & reviews",
           img: "",
           team: ["Bereket", "Hallie", "Joe", "Petra"],
-          github: "",
+          github: "https://github.com/fac24/week2-Bereket-Hallie-Joe-Petra",
           description: "App that stores data in PostgreSQL database",
         },
       ],
