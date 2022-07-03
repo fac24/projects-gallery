@@ -203,7 +203,32 @@ const data = {
     {
       week: 3,
       theme: "Authentication",
-      projects: [],
+      projects: [
+        {
+          title: "Quotato",
+          img: "assets/Quotato.png",
+          team: ["Peter", "Alex", "Hallie", "Bereket"],
+          github: "https://github.com/fac24/week3-alex-bereket-hallie-peter",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
+        },
+        {
+          title: "Moo-Lah-Lah",
+          img: "assets/Moo-Lah-Lah.png",
+          team: ["Sonia", "Joe", "Minju", "George"],
+          github: "https://github.com/fac24/week3-Sonia-Joe-George-Minju",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
+        },
+        {
+          title: "Magnificent Movie Reviews",
+          img: "assets/Magnificent-Movies.png",
+          team: ["Asmahan", "Hussain", "Maria", "Petra"],
+          github: "https://github.com/fac24/week3-Asmahan-Hussain-Maria-Petra",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
+        },
+      ],
     },
     {
       week: 4,
