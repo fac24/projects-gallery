@@ -207,7 +207,7 @@ const data = {
         {
           title: "",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Peter", "Alex", "Hallie", "Bereket"],
           github: "",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
@@ -215,7 +215,7 @@ const data = {
         {
           title: "",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Sonia", "Joe", "Minju", "George"],
           github: "",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
@@ -223,7 +223,7 @@ const data = {
         {
           title: "",
           img: "",
-          team: ["", "", "", ""],
+          team: ["Asmahan", "Hussain", "Maria", "Petra"],
           github: "",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
