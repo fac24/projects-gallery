@@ -208,7 +208,7 @@ const data = {
           title: "Quotato",
           img: "",
           team: ["Peter", "Alex", "Hallie", "Bereket"],
-          github: "",
+          github: "https://github.com/fac24/week3-alex-bereket-hallie-peter",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
         },
@@ -216,7 +216,7 @@ const data = {
           title: "Moo-Lah-Lah",
           img: "",
           team: ["Sonia", "Joe", "Minju", "George"],
-          github: "",
+          github: "https://github.com/fac24/week3-Sonia-Joe-George-Minju",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
         },
@@ -224,7 +224,7 @@ const data = {
           title: "Magnificent Movie Reviews",
           img: "",
           team: ["Asmahan", "Hussain", "Maria", "Petra"],
-          github: "",
+          github: "https://github.com/fac24/week3-Asmahan-Hussain-Maria-Petra",
           description:
             "App that authenticates users and stores data in PostgreSQL database",
         },
