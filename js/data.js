@@ -206,7 +206,7 @@ const data = {
       projects: [
         {
           title: "Quotato",
-          img: "",
+          img: "assets/Quotato.png",
           team: ["Peter", "Alex", "Hallie", "Bereket"],
           github: "https://github.com/fac24/week3-alex-bereket-hallie-peter",
           description:
@@ -214,7 +214,7 @@ const data = {
         },
         {
           title: "Moo-Lah-Lah",
-          img: "",
+          img: "assets/Moo-Lah-Lah.png",
           team: ["Sonia", "Joe", "Minju", "George"],
           github: "https://github.com/fac24/week3-Sonia-Joe-George-Minju",
           description:
@@ -222,7 +222,7 @@ const data = {
         },
         {
           title: "Magnificent Movie Reviews",
-          img: "",
+          img: "assets/Magnificent-Movies.png",
           team: ["Asmahan", "Hussain", "Maria", "Petra"],
           github: "https://github.com/fac24/week3-Asmahan-Hussain-Maria-Petra",
           description:
