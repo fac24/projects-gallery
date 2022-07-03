@@ -209,21 +209,24 @@ const data = {
           img: "",
           team: ["", "", "", ""],
           github: "",
-          description: "",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
         },
         {
           title: "",
           img: "",
           team: ["", "", "", ""],
           github: "",
-          description: "",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
         },
         {
           title: "",
           img: "",
           team: ["", "", "", ""],
           github: "",
-          description: "",
+          description:
+            "App that authenticates users and stores data in PostgreSQL database",
         },
       ],
     },
