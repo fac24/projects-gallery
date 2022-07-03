@@ -205,7 +205,7 @@ const data = {
       theme: "Authentication",
       projects: [
         {
-          title: "",
+          title: "Quotato",
           img: "",
           team: ["Peter", "Alex", "Hallie", "Bereket"],
           github: "",
@@ -213,7 +213,7 @@ const data = {
             "App that authenticates users and stores data in PostgreSQL database",
         },
         {
-          title: "",
+          title: "Moo-Lah-Lah",
           img: "",
           team: ["Sonia", "Joe", "Minju", "George"],
           github: "",
@@ -221,7 +221,7 @@ const data = {
             "App that authenticates users and stores data in PostgreSQL database",
         },
         {
-          title: "",
+          title: "Magnificent Movie Reviews",
           img: "",
           team: ["Asmahan", "Hussain", "Maria", "Petra"],
           github: "",
