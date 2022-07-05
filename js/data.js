@@ -236,21 +236,21 @@ const data = {
       projects: [
         {
           title: "COCORICO",
-          img: "",
+          img: "assets/Cocorico.png",
           team: ["Peter", "Sonia", "George", "Petra"],
           github: "https://github.com/fac24/Week-4-Sonia-Peter-George-Petra",
           description: "",
         },
         {
           title: "A server-side app",
-          img: "",
+          img: "assets/server-side.png",
           team: ["Alex", "Asmahan", "Joe", "Bereket"],
           github: "https://github.com/fac24/week4-Alex-Asmahan-Bereket-Joe",
           description: "",
         },
         {
           title: "seliBay",
-          img: "",
+          img: "assets/selibay.png",
           team: ["Maria", "Hussain", "Minju", "Hallie"],
           github: "https://github.com/fac24/week4-maria-minju-hussain-hallie",
           description: "",
