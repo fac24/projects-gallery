@@ -233,7 +233,29 @@ const data = {
     {
       week: 4,
       theme: "Server-Side App",
-      projects: [],
+      projects: [
+        {
+          title: "COCORICO",
+          img: "assets/Cocorico.png",
+          team: ["Peter", "Sonia", "George", "Petra"],
+          github: "https://github.com/fac24/Week-4-Sonia-Peter-George-Petra",
+          description: "Creating OAuth for post threads",
+        },
+        {
+          title: "A server-side app",
+          img: "assets/server-side.png",
+          team: ["Alex", "Asmahan", "Joe", "Bereket"],
+          github: "https://github.com/fac24/week4-Alex-Asmahan-Bereket-Joe",
+          description: "Uploading images from user",
+        },
+        {
+          title: "seliBay",
+          img: "assets/selibay.png",
+          team: ["Maria", "Hussain", "Minju", "Hallie"],
+          github: "https://github.com/fac24/week4-maria-minju-hussain-hallie",
+          description: "Uploading images from user",
+        },
+      ],
     },
     {
       week: 5,
