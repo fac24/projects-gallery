@@ -235,21 +235,21 @@ const data = {
       theme: "Server-Side App",
       projects: [
         {
-          title: "",
+          title: "COCORICO",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "",
         },
         {
-          title: "",
+          title: "A server-side app",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "",
         },
         {
-          title: "",
+          title: "seliBay",
           img: "",
           team: ["", "", "", ""],
           github: "",
