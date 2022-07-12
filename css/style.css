@@ -27,8 +27,8 @@ h1 {
   font-family: "Roundabout";
   font-size: 3em;
   font-weight: bold;
-  color: #af03ca;
-  -webkit-text-stroke-color: black;
+  color: #94bbe9;
+  -webkit-text-stroke-color: #5e0034;
   -webkit-text-stroke-width: 1px;
 }
 .cohort-name {
