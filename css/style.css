@@ -4,7 +4,7 @@
 body {
   background-color: #ffaed7;
   padding: 1em;
-  font-family: "Roboto", sans-serif;
+  font-family: "Cornleaves", regular;
 }
 
 a,
@@ -24,6 +24,7 @@ a:visited {
 h1 {
   padding: 2rem;
   text-align: center;
+  font-family: "Roundabout";
   font-size: 3em;
   font-weight: bold;
   color: bisque;
