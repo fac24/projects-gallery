@@ -15,9 +15,15 @@ a:visited {
 }
 
 .fac-logo {
-  display: none;
+  left: 0;
+  margin: 6rem 2rem;
 }
 
+.fac-logo:hover {
+  transition: 1s ease-out;
+  background-color: #5e0034;
+  border-radius: 100%;
+}
 .app-header {
   display: flex;
   width: 100%;
@@ -121,5 +127,13 @@ h4 {
     right: 0;
     top: 0;
     width: 20%;
+  }
+
+  .fac-logo:hover {
+    color: #5e0034;
+  }
+
+  .fac-logo:visited {
+    color: #94bbe9;
   }
 }
