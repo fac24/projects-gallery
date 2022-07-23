@@ -118,8 +118,8 @@ h4 {
   .fac-logo {
     display: block;
     position: absolute;
-    left: 0px;
-    top: 0px;
+    right: 0;
+    top: 0;
     width: 20%;
   }
 }
