@@ -15,15 +15,16 @@ a:visited {
 }
 
 .fac-logo {
-  left: 0;
-  margin: 6rem 2rem;
+  /* left: 0;
+  margin: 6rem 2rem; */
+  width: 30%;
 }
 
 .fac-logo:hover {
   transition: 1s ease-out;
   background-color: #5e0034;
   border-radius: 100%;
-  border: 2rem solid#84fab0;
+  border: 0.5rem solid#84fab0;
 }
 .app-header {
   display: flex;
@@ -123,6 +124,8 @@ h4 {
   }
 
   .fac-logo {
+    left: 0;
+    margin: 6rem 2rem;
     display: block;
     position: absolute;
     right: 0;
@@ -132,9 +135,16 @@ h4 {
 
   .fac-logo:hover {
     color: #5e0034;
+    border: 2rem solid#84fab0;
   }
 
   .fac-logo:visited {
     color: #94bbe9;
+  }
+}
+
+@media (max-width: 300px) {
+  .fac-logo {
+    width: 2%;
   }
 }
