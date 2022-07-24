@@ -31,6 +31,17 @@ a:visited {
   border-radius: 100%;
   border: 0.5rem solid#84fab0;
 }
+
+.iconify {
+  display: flex;
+  /* align-content: center; */
+  justify-content: center;
+  margin: 0 auto;
+  width: 4rem;
+  height: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 .app-header {
   display: flex;
   width: 100%;
@@ -145,6 +156,11 @@ h4 {
 
   .fac-logo:visited {
     color: #94bbe9;
+  }
+  .iconify {
+    transform: translate(25rem, -0.5rem);
+    width: 20%;
+    height: auto;
   }
 }
 
