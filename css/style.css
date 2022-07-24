@@ -14,6 +14,48 @@ a:visited {
   color: inherit;
 }
 
+.fac-logo {
+  /* left: 0;
+  margin: 6rem 2rem; */
+  width: 30%;
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin: 0 auto;
+}
+
+.fac-logo:hover {
+  transition: 1s ease-out;
+  background-color: #5e0034;
+  border-radius: 100%;
+  border: 0.5rem solid#84fab0;
+}
+
+.iconify {
+  display: flex;
+  /* align-content: center; */
+  justify-content: center;
+  margin: 0 auto;
+  width: 4rem;
+  height: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  animation: broccoli-float 1s infinite ease-in-out;
+  /* animation-delay: 2s; */
+}
+
+@keyframes broccoli-float {
+  0% {
+    transform: translateY(5px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(5px);
+  }
+}
 .app-header {
   display: flex;
   width: 100%;
@@ -24,7 +66,7 @@ a:visited {
 h1 {
   padding: 2rem;
   text-align: center;
-  font-family: "Roundabout";
+  font-family: "Wash Your Hand";
   font-size: 3em;
   font-weight: bold;
   color: #94bbe9;
@@ -109,5 +151,35 @@ h4 {
   .project-image-container {
     max-width: 280px;
     max-height: 195px;
+  }
+
+  .fac-logo {
+    left: 0;
+    margin: 6rem 2rem;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 20%;
+  }
+
+  .fac-logo:hover {
+    color: #5e0034;
+    border: 2rem solid#84fab0;
+  }
+
+  .fac-logo:visited {
+    color: #94bbe9;
+  }
+  .iconify {
+    transform: translate(25rem, -0.5rem);
+    width: 20%;
+    height: auto;
+  }
+}
+
+@media (max-width: 300px) {
+  .fac-logo {
+    width: 2%;
   }
 }
