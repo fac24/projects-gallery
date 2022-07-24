@@ -41,6 +41,20 @@ a:visited {
   height: auto;
   margin-top: 2rem;
   margin-bottom: 2rem;
+  animation: broccoli-float 1s infinite ease-in-out;
+  /* animation-delay: 2s; */
+}
+
+@keyframes broccoli-float {
+  0% {
+    transform: translateY(5px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(5px);
+  }
 }
 .app-header {
   display: flex;
