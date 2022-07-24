@@ -18,6 +18,11 @@ a:visited {
   /* left: 0;
   margin: 6rem 2rem; */
   width: 30%;
+  display: flex;
+  /* flex-wrap: wrap; */
+  /* align-items: center; */
+  /* justify-content: center; */
+  margin: 0 auto;
 }
 
 .fac-logo:hover {
