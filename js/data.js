@@ -313,7 +313,7 @@ const data = {
           title: "Little Garden",
           img: "",
           team: ["Hallie", "Peter", "Asmahan", "Maria"],
-          github: "",
+          github: "https://github.com/fac24/week6-asmahan-hallie-peter-maria",
           description:
             "An e-commerce site for plant-lovers to buy fresh, home-grown plants.",
         },
@@ -321,14 +321,14 @@ const data = {
           title: "Moods for sale",
           img: "",
           team: ["Joe", "Sonia", "Hussain", "Bereket"],
-          github: "",
+          github: "https://github.com/fac24/week6-bereket-hussain-joe-sonia",
           description: "An e-commerce site to browse and purchase emotions.",
         },
         {
           title: "SecTech",
           img: "",
           team: ["Minju", "Alex", "Petra", "George"],
-          github: "",
+          github: "https://github.com/fac24/week6-alex-george-minju-petra",
           description:
             "An e-commerce site to shop for second-hand electronic devices.",
         },
