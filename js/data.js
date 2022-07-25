@@ -311,7 +311,7 @@ const data = {
       projects: [
         {
           title: "Little Garden",
-          img: "",
+          img: "assets/LittleGarden.png",
           team: ["Hallie", "Peter", "Asmahan", "Maria"],
           github: "https://github.com/fac24/week6-asmahan-hallie-peter-maria",
           description:
