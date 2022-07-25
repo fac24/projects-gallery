@@ -263,7 +263,7 @@ const data = {
       projects: [
         {
           title: "Broccoli",
-          img: "assets/broccoli.png",
+          img: "assets/broccoli-game.png",
           team: ["Peter", "Hussain"],
           github: "https://github.com/fac24/week-5-Peter-Hussain",
           description: "Interactive React game using data from an API",
@@ -298,7 +298,7 @@ const data = {
         },
         {
           title: "Couch Potato: a quiz app",
-          img: "assets/couch-potato.png",
+          img: "assets/couchPotato.png",
           team: ["Joe", "Maria"],
           github: "https://github.com/fac24/week5-Joe-Maria",
           description: "Interactive React game using data from an API",
