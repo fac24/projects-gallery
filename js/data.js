@@ -263,7 +263,7 @@ const data = {
       projects: [
         {
           title: "Broccoli",
-          img: "",
+          img: "assets/broccoli.png",
           team: ["Peter", "Hussain"],
           github: "https://github.com/fac24/week-5-Peter-Hussain",
           description: "Interactive React game using data from an API",
