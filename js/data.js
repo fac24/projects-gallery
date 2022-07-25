@@ -319,14 +319,14 @@ const data = {
         },
         {
           title: "Moods for sale",
-          img: "",
+          img: "assets/sellEmotion.png",
           team: ["Joe", "Sonia", "Hussain", "Bereket"],
           github: "https://github.com/fac24/week6-bereket-hussain-joe-sonia",
           description: "An e-commerce site to browse and purchase emotions.",
         },
         {
           title: "SecTech",
-          img: "",
+          img: "assets/secTech.png",
           team: ["Minju", "Alex", "Petra", "George"],
           github: "https://github.com/fac24/week6-alex-george-minju-petra",
           description:
