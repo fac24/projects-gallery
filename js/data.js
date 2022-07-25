@@ -260,7 +260,50 @@ const data = {
     {
       week: 5,
       theme: "Client-Side App",
-      projects: [],
+      projects: [
+        {
+          title: "Broccoli",
+          img: "assets/broccoli-game.png",
+          team: ["Peter", "Hussain"],
+          github: "https://github.com/fac24/week-5-Peter-Hussain",
+          description: "Interactive React game using data from an API",
+        },
+        {
+          title: "World of Flags",
+          img: "assets/world-of-flags.png",
+          team: ["Asmahan", "Sonia"],
+          github: "https://github.com/fac24/Week5-Sonia-Asmahan",
+          description: "Interactive React game using data from an API",
+        },
+        {
+          title: "BADFLIX!",
+          img: "assets/badflix.png",
+          team: ["George", "Hallie"],
+          github: "https://github.com/fac24/week5-George-Hallie",
+          description: "Interactive React game using data from an API",
+        },
+        {
+          title: "SearchFlix",
+          img: "assets/searchflix.png",
+          team: ["Minju", "Bereket"],
+          github: "https://github.com/fac24/week5-bereket-minju",
+          description: "Interactive React game using data from an API",
+        },
+        {
+          title: "Past & Curious",
+          img: "assets/past-and-curious.png",
+          team: ["Petra", "Alex"],
+          github: "https://github.com/fac24/Week5-Alex-Petra",
+          description: "Interactive React game using data from an API",
+        },
+        {
+          title: "Couch Potato: a quiz app",
+          img: "assets/couchPotato.png",
+          team: ["Joe", "Maria"],
+          github: "https://github.com/fac24/week5-Joe-Maria",
+          description: "Interactive React game using data from an API",
+        },
+      ],
     },
     {
       week: 6,
