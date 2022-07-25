@@ -319,14 +319,14 @@ const data = {
         {
           title: "",
           img: "",
-          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          team: ["Joe", "Sonia", "Hussain", "Bereket"],
           github: "",
           description: "",
         },
         {
           title: "",
           img: "",
-          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          team: ["Minju", "Alex", "Petra", "George"],
           github: "",
           description: "",
         },
