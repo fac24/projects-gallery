@@ -308,7 +308,31 @@ const data = {
     {
       week: 6,
       theme: "Full-stack App",
-      projects: [],
+      projects: [
+        {
+          title: "Little Garden",
+          img: "assets/LittleGarden.png",
+          team: ["Hallie", "Peter", "Asmahan", "Maria"],
+          github: "https://github.com/fac24/week6-asmahan-hallie-peter-maria",
+          description:
+            "An e-commerce site for plant-lovers to buy fresh, home-grown plants.",
+        },
+        {
+          title: "Moods for sale",
+          img: "assets/sellEmotion.png",
+          team: ["Joe", "Sonia", "Hussain", "Bereket"],
+          github: "https://github.com/fac24/week6-bereket-hussain-joe-sonia",
+          description: "An e-commerce site to browse and purchase emotions.",
+        },
+        {
+          title: "SecTech",
+          img: "assets/secTech.png",
+          team: ["Minju", "Alex", "Petra", "George"],
+          github: "https://github.com/fac24/week6-alex-george-minju-petra",
+          description:
+            "An e-commerce site to shop for second-hand electronic devices.",
+        },
+      ],
     },
     {
       week: 7,
