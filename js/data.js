@@ -308,7 +308,29 @@ const data = {
     {
       week: 6,
       theme: "Full-stack App",
-      projects: [],
+      projects: [
+        {
+          title: "",
+          img: "",
+          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          github: "",
+          description: "",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          github: "",
+          description: "",
+        },
+        {
+          title: "",
+          img: "",
+          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          github: "",
+          description: "",
+        },
+      ],
     },
     {
       week: 7,
