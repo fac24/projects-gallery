@@ -310,25 +310,27 @@ const data = {
       theme: "Full-stack App",
       projects: [
         {
-          title: "",
+          title: "Little Garden",
           img: "",
-          team: ["Maria", "Peter", "Asmahan", "Hallie"],
+          team: ["Hallie", "Peter", "Asmahan", "Maria"],
           github: "",
-          description: "",
+          description:
+            "An e-commerce site for plant-lovers to buy fresh, home-grown plants.",
         },
         {
-          title: "",
+          title: "Moods for sale",
           img: "",
           team: ["Joe", "Sonia", "Hussain", "Bereket"],
           github: "",
-          description: "",
+          description: "An e-commerce site to browse and purchase emotions.",
         },
         {
-          title: "",
+          title: "SecTech",
           img: "",
           team: ["Minju", "Alex", "Petra", "George"],
           github: "",
-          description: "",
+          description:
+            "An e-commerce site to shop for second-hand electronic devices.",
         },
       ],
     },
