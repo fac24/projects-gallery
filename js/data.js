@@ -342,7 +342,7 @@ const data = {
           title: "Paintbox",
           img: "",
           team: ["Peter", "Asmahan", "Petra", "Hallie"],
-          github: "",
+          github: "https://github.com/fac24/paintbox",
           description:
             "A creative community where you can express your feelings and upload art as therapy.",
         },
@@ -350,7 +350,7 @@ const data = {
           title: "Train Exits",
           img: "",
           team: ["Joe", "Bereket", "Minju", "George"],
-          github: "",
+          github: "https://github.com/fac24/finalProj-Bereket-Minju-Joe-George",
           description:
             "A directions app that gets you from start to end, as well as show quick exits for a better journey.",
         },
@@ -358,7 +358,7 @@ const data = {
           title: "Immortal Garments",
           img: "",
           team: ["Sonia", "Hussain", "Maria", "Alex"],
-          github: "",
+          github: "https://github.com/fac24/immortal-garments",
           description:
             "An app to help people decide what to do with their unwanted garments.",
         },
