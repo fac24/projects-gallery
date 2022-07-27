@@ -340,7 +340,7 @@ const data = {
       projects: [
         {
           title: "Paintbox",
-          img: "",
+          img: "assets/Paintbox.png",
           team: ["Peter", "Asmahan", "Petra", "Hallie"],
           github: "https://github.com/fac24/paintbox",
           description:
@@ -348,7 +348,7 @@ const data = {
         },
         {
           title: "Train Exits",
-          img: "",
+          img: "assets/TrainExits.png",
           team: ["Joe", "Bereket", "Minju", "George"],
           github: "https://github.com/fac24/finalProj-Bereket-Minju-Joe-George",
           description:
@@ -356,7 +356,7 @@ const data = {
         },
         {
           title: "Immortal Garments",
-          img: "",
+          img: "assets/ImmortalGarments.png",
           team: ["Sonia", "Hussain", "Maria", "Alex"],
           github: "https://github.com/fac24/immortal-garments",
           description:
