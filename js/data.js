@@ -343,21 +343,24 @@ const data = {
           img: "",
           team: ["Peter", "Asmahan", "Petra", "Hallie"],
           github: "",
-          description: "",
+          description:
+            "A creative community where you can express your feelings and upload art as therapy.",
         },
         {
           title: "Train Exits",
           img: "",
           team: ["Joe", "Bereket", "Minju", "George"],
           github: "",
-          description: "",
+          description:
+            "A directions app that gets you from start to end, as well as show quick exits for a better journey.",
         },
         {
           title: "Immortal Garments",
           img: "",
           team: ["Sonia", "Hussain", "Maria", "Alex"],
           github: "",
-          description: "",
+          description:
+            "An app to help people decide what to do with their unwanted garments.",
         },
       ],
     },
