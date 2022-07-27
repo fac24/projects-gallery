@@ -373,21 +373,24 @@ const data = {
           img: "assets/.png",
           team: ["Peter", "Joe", "Maria", "Hallie"],
           github: "https://github.com/fac24/alis-learning",
-          description: "",
+          description:
+            "A fun and educational dyslexic reading platform for kids.",
         },
         {
           title: "Street Cred",
           img: "assets/.png",
           team: ["Sonia", "Petra", "Minju", "Asmahan"],
           github: "https://github.com/fac24/StreetCred",
-          description: "",
+          description:
+            "Extend the life of items and waste less! Share from house to house and build up points for sharing.",
         },
         {
           title: "Ecnmy",
           img: "assets/.png",
           team: ["Alex", "Bereket", "George", "Hussain"],
           github: "https://github.com/fac24/ecnmy",
-          description: "",
+          description:
+            "Economy’s vision is of a flourishing and sustainable society in which there is diverse and inclusive public conversation about the economy.",
         },
       ],
     },
