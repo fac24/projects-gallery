@@ -370,7 +370,7 @@ const data = {
       projects: [
         {
           title: "Alis Learning",
-          img: "assets/.png",
+          img: "assets/AlisLearning.png",
           team: ["Peter", "Joe", "Maria", "Hallie"],
           github: "https://github.com/fac24/alis-learning",
           description:
@@ -378,7 +378,7 @@ const data = {
         },
         {
           title: "Street Cred",
-          img: "assets/.png",
+          img: "assets/StreetCred.png",
           team: ["Sonia", "Petra", "Minju", "Asmahan"],
           github: "https://github.com/fac24/StreetCred",
           description:
@@ -386,7 +386,7 @@ const data = {
         },
         {
           title: "Ecnmy",
-          img: "assets/.png",
+          img: "assets/Ecnmy.png",
           team: ["Alex", "Bereket", "George", "Hussain"],
           github: "https://github.com/fac24/ecnmy",
           description:
