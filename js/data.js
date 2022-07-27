@@ -367,7 +367,32 @@ const data = {
     {
       week: 10,
       theme: "Tech for Better Projects (Weeks 10-12)",
-      projects: [],
+      projects: [
+        {
+          title: "Alis Learning",
+          img: "assets/AlisLearning.png",
+          team: ["Peter", "Joe", "Maria", "Hallie"],
+          github: "https://github.com/fac24/alis-learning",
+          description:
+            "A fun and educational dyslexic reading platform for kids.",
+        },
+        {
+          title: "Street Cred",
+          img: "assets/StreetCred.png",
+          team: ["Sonia", "Petra", "Minju", "Asmahan"],
+          github: "https://github.com/fac24/StreetCred",
+          description:
+            "Extend the life of items and waste less! Share from house to house and build up points for sharing.",
+        },
+        {
+          title: "Ecnmy",
+          img: "assets/Ecnmy.png",
+          team: ["Alex", "Bereket", "George", "Hussain"],
+          github: "https://github.com/fac24/ecnmy",
+          description:
+            "Economy’s vision is of a flourishing and sustainable society in which there is diverse and inclusive public conversation about the economy.",
+        },
+      ],
     },
   ],
   people: [
