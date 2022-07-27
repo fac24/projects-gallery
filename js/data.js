@@ -367,7 +367,29 @@ const data = {
     {
       week: 10,
       theme: "Tech for Better Projects (Weeks 10-12)",
-      projects: [],
+      projects: [
+        {
+          title: "Alis Learning",
+          img: "assets/Paintbox.png",
+          team: ["Peter", "Joe", "Maria", "Hallie"],
+          github: "",
+          description: "",
+        },
+        {
+          title: "Street Cred",
+          img: "assets/TrainExits.png",
+          team: ["Sonia", "Petra", "Minju", "Asmahan"],
+          github: "",
+          description: "",
+        },
+        {
+          title: "Ecnmy",
+          img: "assets/ImmortalGarments.png",
+          team: ["Alex", "Bereket", "George", "Hussain"],
+          github: "",
+          description: "",
+        },
+      ],
     },
   ],
   people: [
