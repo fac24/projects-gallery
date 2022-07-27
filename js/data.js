@@ -337,7 +337,15 @@ const data = {
     {
       week: 7,
       theme: "In-House Final Projects (Weeks 7-9)",
-      projects: [],
+      projects: [
+        {
+          title: "",
+          img: "",
+          team: ["", "", "", ""],
+          github: "",
+          description: "",
+        },
+      ],
     },
     {
       week: 10,
