@@ -337,7 +337,32 @@ const data = {
     {
       week: 7,
       theme: "In-House Final Projects (Weeks 7-9)",
-      projects: [],
+      projects: [
+        {
+          title: "Paintbox",
+          img: "assets/Paintbox.png",
+          team: ["Peter", "Asmahan", "Petra", "Hallie"],
+          github: "https://github.com/fac24/paintbox",
+          description:
+            "A creative community where you can express your feelings and upload art as therapy.",
+        },
+        {
+          title: "Train Exits",
+          img: "assets/TrainExits.png",
+          team: ["Joe", "Bereket", "Minju", "George"],
+          github: "https://github.com/fac24/finalProj-Bereket-Minju-Joe-George",
+          description:
+            "A directions app that gets you from start to end, as well as show quick exits for a better journey.",
+        },
+        {
+          title: "Immortal Garments",
+          img: "assets/ImmortalGarments.png",
+          team: ["Sonia", "Hussain", "Maria", "Alex"],
+          github: "https://github.com/fac24/immortal-garments",
+          description:
+            "An app to help people decide what to do with their unwanted garments.",
+        },
+      ],
     },
     {
       week: 10,
