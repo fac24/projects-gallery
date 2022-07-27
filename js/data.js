@@ -339,21 +339,21 @@ const data = {
       theme: "In-House Final Projects (Weeks 7-9)",
       projects: [
         {
-          title: "",
+          title: "Paintbox",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "",
         },
         {
-          title: "",
+          title: "Train Exits",
           img: "",
           team: ["", "", "", ""],
           github: "",
           description: "",
         },
         {
-          title: "",
+          title: "Immortal Garments",
           img: "",
           team: ["", "", "", ""],
           github: "",
